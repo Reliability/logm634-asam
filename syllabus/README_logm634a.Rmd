@@ -4,7 +4,7 @@ author: '<h3>Course Syllabus - 2018</h3>'
 date: '<h3>MTWHF 0900-1200 USAF Expeditionary Center, Ft Dix, NJ (3.0 Credit Hours)</h3>'
 output: 
   github_document:
-    html_preview: no
+    html_preview: yes
     toc: true
     toc_depth: 2
 knit: (function(inputFile, encoding) { 
@@ -46,13 +46,17 @@ Cell:  (937) 430-6619
 Office: Bldg. 640, Rm. 205B  
 Office hours: By appointment
 
-## Course Resources (Required & Optional)
+## Resources
 
-The required text for this course is 
+### Required resources
+
+The required text for this course is
 
 - Charles E. Ebeling  
 [**An Introduction to Reliability and Maintainability Engineering**](http://www.waveland.com/browse.php?t=392&pgtitle=An+Introduction+to+Reliability+and+Maintainability+Engineering%3A+Second+Edition+by+Charles+E.+Ebeling)  
 2nd ed., Waveland Press, Long Grove, IL 2010.  
+
+### Optional resources
 
 The following list includes references to more reliability-related resources that can be accessed online.  While not required, these references contain content that complements the material presented during this course.
 
@@ -78,6 +82,35 @@ The following list includes references to more reliability-related resources tha
 
 - [**Army Material Systems Analysis Activity**](http://web.amsaa.army.mil/home.html/)
 
+## Course Schedule (Tentative)
+
+```{r, echo=FALSE}
+week  <- 1:10
+chap  <- c('1, 2','3, 4','4, 5','6, 7','7, 8','N/A','7, 8','9, 10','15, 16, 17','N/A')
+topic <- c('Course Overview<br/>Reliability Introduction<br/>Math Review',
+           'Failure Models<br/>System Reliability',
+           'Failure Models',
+           'State Dependent Systems<br/>Physical Reliability Models',
+           'Physical Reliability Models<br/>Design for Reliability<br/>Reliability Growth Testing',
+           ' ',
+           'Design for Reliability<br/>Reliability Growth Testing',
+           'Maintainability<br/>Design for Maintainability',
+           'Reliability in Manufacture<br/>Maintainability & Availability<br/>Reliability Management','')
+notes <- c('HW 1 Assigned',
+           ' ',
+           'HW 1 Due<br/>HW 2 Assigned',
+           ' ',
+           'HW 2 Due<br/>HW 3 Assigned<br/>Project Topics Due',
+           ' ',
+           'HW 3 Due<br/>HW 4 Assigned',
+           ' ',
+           'HW 4 Due<br/>Review For Final',
+           'Student Presentations<br/>Final Exam')
+df <- data.frame(week, chap, topic, notes)
+colnames(df) <- c('Week','Chapters','Topics Presented','Notes')
+knitr::kable(df, format = 'markdown', align = 'l')
+```
+
 ## Course Format
 
 Class material is primarily presented in lecture format.
@@ -94,7 +127,7 @@ Students, in teams of two, will prepare a class presentation on a topic relevant
 
 > Project examples: Evaluation of the C-5 re-engining and reliability improvement program, a B-52 life extension program, F-35 software reliability, GM ignition switch failures,r automotive air bag failures, the Samsung Galaxy Note 7 failures, or electric car battery failures.
 
-- __FINAL EXAM (30\%):__  
+- __FINAL EXAM (33\%):__  
 The final exam will test comprehension of the course material in the book and class presentations, and ability to analytically solve problems scoped similar to the homework.  The exam is closed book, closed notes.  Students may prepare a formula sheet, on 8 ½" x 11" paper, and use both the front and back.  Students will have two hours to finish the exam.
 
 A student's final letter grade will be parsed out according to the table below.  This grading profile follows the the standard grading profile established by the institution. 
@@ -105,7 +138,6 @@ A student's final letter grade will be parsed out according to the table below. 
 - (0.87 - 0.83]: B
 - (0.83 - 0.80]: B-
 - (0.80 - 0.77]: C
-
 
 ## Important Policy Statements
 
