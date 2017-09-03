@@ -12,7 +12,8 @@ MTWHF 0900-1200 USAF Expeditionary Center, Ft Dix, NJ (3.0 Credit Hours)
 -   [Academic Integrity](#academic-integrity)
 -   [Pre-requisites & Co-requisites](#pre-requisites-co-requisites)
 -   [Instructor and Contact Information](#instructor-and-contact-information)
--   [Course Resources (Required & Optional)](#course-resources-required-optional)
+-   [Resources](#resources)
+-   [Course Schedule (Tentative)](#course-schedule-tentative)
 -   [Course Format](#course-format)
 -   [Performance Evaluation](#performance-evaluation)
 -   [Important Policy Statements](#important-policy-statements)
@@ -55,14 +56,18 @@ Cell: (937) 430-6619
 Office: Bldg. 640, Rm. 205B
 Office hours: By appointment
 
-Course Resources (Required & Optional)
---------------------------------------
+Resources
+---------
+
+### Required resources
 
 The required text for this course is
 
 -   Charles E. Ebeling
     [**An Introduction to Reliability and Maintainability Engineering**](http://www.waveland.com/browse.php?t=392&pgtitle=An+Introduction+to+Reliability+and+Maintainability+Engineering%3A+Second+Edition+by+Charles+E.+Ebeling)
     2nd ed., Waveland Press, Long Grove, IL 2010.
+
+### Optional resources
 
 The following list includes references to more reliability-related resources that can be accessed online. While not required, these references contain content that complements the material presented during this course.
 
@@ -88,6 +93,88 @@ The following list includes references to more reliability-related resources tha
 
 -   [**Army Material Systems Analysis Activity**](http://web.amsaa.army.mil/home.html/)
 
+Course Schedule (Tentative)
+---------------------------
+
+<table>
+<colgroup>
+<col width="3%" />
+<col width="7%" />
+<col width="56%" />
+<col width="32%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Week</th>
+<th align="left">Chapters</th>
+<th align="left">Topics Presented</th>
+<th align="left">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">1</td>
+<td align="left">1, 2</td>
+<td align="left">Course Overview<br/>Reliability Introduction<br/>Math Review</td>
+<td align="left">HW 1 Assigned</td>
+</tr>
+<tr class="even">
+<td align="left">2</td>
+<td align="left">3, 4</td>
+<td align="left">Failure Models<br/>System Reliability</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">3</td>
+<td align="left">4, 5</td>
+<td align="left">Failure Models</td>
+<td align="left">HW 1 Due<br/>HW 2 Assigned</td>
+</tr>
+<tr class="even">
+<td align="left">4</td>
+<td align="left">6, 7</td>
+<td align="left">State Dependent Systems<br/>Physical Reliability Models</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">5</td>
+<td align="left">7, 8</td>
+<td align="left">Physical Reliability Models<br/>Design for Reliability<br/>Reliability Growth Testing</td>
+<td align="left">HW 2 Due<br/>HW 3 Assigned<br/>Project Topics Due</td>
+</tr>
+<tr class="even">
+<td align="left">6</td>
+<td align="left">N/A</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">7</td>
+<td align="left">7, 8</td>
+<td align="left">Design for Reliability<br/>Reliability Growth Testing</td>
+<td align="left">HW 3 Due<br/>HW 4 Assigned</td>
+</tr>
+<tr class="even">
+<td align="left">8</td>
+<td align="left">9, 10</td>
+<td align="left">Maintainability<br/>Design for Maintainability</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">9</td>
+<td align="left">15, 16, 17</td>
+<td align="left">Reliability in Manufacture<br/>Maintainability &amp; Availability<br/>Reliability Management</td>
+<td align="left">HW 4 Due<br/>Review For Final</td>
+</tr>
+<tr class="even">
+<td align="left">10</td>
+<td align="left">N/A</td>
+<td align="left"></td>
+<td align="left">Student Presentations<br/>Final Exam</td>
+</tr>
+</tbody>
+</table>
+
 Course Format
 -------------
 
@@ -106,7 +193,7 @@ Your grade in this course will be calculated according to the following requirem
 
 > Project examples: Evaluation of the C-5 re-engining and reliability improvement program, a B-52 life extension program, F-35 software reliability, GM ignition switch failures,r automotive air bag failures, the Samsung Galaxy Note 7 failures, or electric car battery failures.
 
--   **FINAL EXAM (30%):**
+-   **FINAL EXAM (33%):**
     The final exam will test comprehension of the course material in the book and class presentations, and ability to analytically solve problems scoped similar to the homework. The exam is closed book, closed notes. Students may prepare a formula sheet, on 8 ½" x 11" paper, and use both the front and back. Students will have two hours to finish the exam.
 
 A student's final letter grade will be parsed out according to the table below. This grading profile follows the the standard grading profile established by the institution.
