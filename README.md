@@ -9,7 +9,6 @@ MTWHF 0900-1200 USAF Expeditionary Center, Ft Dix, NJ (3.0 Credit Hours)
 
 -   [Course Description](#course-description)
 -   [Course Objectives](#course-objectives)
--   [Academic Integrity](#academic-integrity)
 -   [Pre-requisites & Co-requisites](#pre-requisites-co-requisites)
 -   [Instructor and Contact Information](#instructor-and-contact-information)
 -   [Resources](#resources)
@@ -17,7 +16,6 @@ MTWHF 0900-1200 USAF Expeditionary Center, Ft Dix, NJ (3.0 Credit Hours)
 -   [Course Format](#course-format)
 -   [Performance Evaluation](#performance-evaluation)
 -   [Important Policy Statements](#important-policy-statements)
--   [Additional Notes](#additional-notes)
 
 Course Description
 ------------------
@@ -34,11 +32,6 @@ Upon completion of this course each student shall be able to:
 -   Understand the use of probability theory to quantify R&M concepts.
 
 -   Understand and apply the measures which quantitatively define component R&M.
-
-Academic Integrity
-------------------
-
-Students found to be cheating will be referred for disciplinary action. Cheating includes, but is not limited to, copying on exams, plagiarizing material from published sources, plagiarizing from former or current AFIT students, submitting someone else’s work as your own, or helping other students to cheat. If you have any questions regarding what is permissible, please contact the professor for guidance.
 
 Pre-requisites & Co-requisites
 ------------------------------
@@ -99,9 +92,9 @@ Course Schedule (Tentative)
 <table>
 <colgroup>
 <col width="3%" />
-<col width="7%" />
-<col width="56%" />
-<col width="32%" />
+<col width="5%" />
+<col width="60%" />
+<col width="30%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -115,62 +108,62 @@ Course Schedule (Tentative)
 <tr class="odd">
 <td align="left">1</td>
 <td align="left">1, 2</td>
-<td align="left">Course Overview<br/>Reliability Introduction<br/>Math Review</td>
+<td align="left">Course Overview<br/>Math/Stat Review<br/>Reliability Introduction<br/> Distribution Functions</td>
 <td align="left">HW 1 Assigned</td>
 </tr>
 <tr class="even">
 <td align="left">2</td>
-<td align="left">3, 4</td>
-<td align="left">Failure Models<br/>System Reliability</td>
+<td align="left">2, 3</td>
+<td align="left">Distribution Functions<br/>Conditional Reliability<br/>Constant Failure Rate Model</td>
 <td align="left"></td>
 </tr>
 <tr class="odd">
 <td align="left">3</td>
-<td align="left">4, 5</td>
-<td align="left">Failure Models</td>
+<td align="left">3, 4</td>
+<td align="left">Constant Failure Rate Model<br/>Time Dependent Failure Models</td>
 <td align="left">HW 1 Due<br/>HW 2 Assigned</td>
 </tr>
 <tr class="even">
 <td align="left">4</td>
-<td align="left">6, 7</td>
-<td align="left">State Dependent Systems<br/>Physical Reliability Models</td>
+<td align="left">4, 5</td>
+<td align="left">Time Dependent Failure Models<br/>Reliability of Systems</td>
 <td align="left"></td>
 </tr>
 <tr class="odd">
 <td align="left">5</td>
-<td align="left">7, 8</td>
-<td align="left">Physical Reliability Models<br/>Design for Reliability<br/>Reliability Growth Testing</td>
+<td align="left">5 - 7</td>
+<td align="left">Reliability of Systems<br/>State Dependent Systems<br/>Physical Reliability Models</td>
 <td align="left">HW 2 Due<br/>HW 3 Assigned<br/>Project Topics Due</td>
 </tr>
 <tr class="even">
 <td align="left">6</td>
-<td align="left">N/A</td>
-<td align="left"></td>
+<td align="left">8, 9</td>
+<td align="left">Design for Reliability<br/>Maintainability</td>
 <td align="left"></td>
 </tr>
 <tr class="odd">
 <td align="left">7</td>
-<td align="left">7, 8</td>
-<td align="left">Design for Reliability<br/>Reliability Growth Testing</td>
+<td align="left">9, 10</td>
+<td align="left">Maintainability<br/>Design for Maintainability</td>
 <td align="left">HW 3 Due<br/>HW 4 Assigned</td>
 </tr>
 <tr class="even">
 <td align="left">8</td>
-<td align="left">9, 10</td>
-<td align="left">Maintainability<br/>Design for Maintainability</td>
+<td align="left">11, 12</td>
+<td align="left">Data Collection<br/>Reliability Testing</td>
 <td align="left"></td>
 </tr>
 <tr class="odd">
 <td align="left">9</td>
-<td align="left">15, 16, 17</td>
-<td align="left">Reliability in Manufacture<br/>Maintainability &amp; Availability<br/>Reliability Management</td>
-<td align="left">HW 4 Due<br/>Review For Final</td>
+<td align="left">12, 13</td>
+<td align="left">Reliability Testing<br/>Reliability Growth Testing<br/>Review For Final</td>
+<td align="left">HW 4 Due</td>
 </tr>
 <tr class="even">
 <td align="left">10</td>
 <td align="left">N/A</td>
-<td align="left"></td>
 <td align="left">Student Presentations<br/>Final Exam</td>
+<td align="left"></td>
 </tr>
 </tbody>
 </table>
@@ -194,7 +187,7 @@ Your grade in this course will be calculated according to the following requirem
 > Project examples: Evaluation of the C-5 re-engining and reliability improvement program, a B-52 life extension program, F-35 software reliability, GM ignition switch failures,r automotive air bag failures, the Samsung Galaxy Note 7 failures, or electric car battery failures.
 
 -   **FINAL EXAM (33%):**
-    The final exam will test comprehension of the course material in the book and class presentations, and ability to analytically solve problems scoped similar to the homework. The exam is closed book, closed notes. Students may prepare a formula sheet, on 8 ½" x 11" paper, and use both the front and back. Students will have two hours to finish the exam.
+    The final exam will test comprehension of the course material in the book and class presentations, and ability to analytically solve problems scoped similar to the homework. The exam is closed book, closed notes. Students may prepare a formula sheet, on 8 Â½" x 11" paper, and use both the front and back. Students will have two hours to finish the exam.
 
 A student's final letter grade will be parsed out according to the table below. This grading profile follows the the standard grading profile established by the institution.
 
@@ -210,29 +203,12 @@ Important Policy Statements
 
 ### Academic Integrity Policy Statement
 
-All students must adhere to the highest standards of academic integrity. Students are prohibited from engaging in plagiarism, cheating, misrepresentation, or any other act constituting a lack of academic integrity. Failure on the part of any individual to practice academic integrity is not condoned and will not be tolerated. Individuals who violate this policy are subject to adverse administrative action including disenrollment from school and disciplinary action. Individuals subject to the Uniform Code of Military Justice may be prosecuted under the UCMJ. Violations by government civilian employees may result in administrative disciplinary action without regard to otherwise applicable criminal or civil sanctions for violations of related laws. (References: Student Handbook, ENOI 36 – 107, Academic Integrity)
+All students must adhere to the highest standards of academic integrity. Students are prohibited from engaging in plagiarism, cheating, misrepresentation, or any other act constituting a lack of academic integrity. Failure on the part of any individual to practice academic integrity is not condoned and will not be tolerated. Individuals who violate this policy are subject to adverse administrative action including disenrollment from school and disciplinary action. Individuals subject to the Uniform Code of Military Justice may be prosecuted under the UCMJ. Violations by government civilian employees may result in administrative disciplinary action without regard to otherwise applicable criminal or civil sanctions for violations of related laws. (References: AFIT Student Handbook, ENOI 36-107 - *Academic Integrity*)
 
 ### Attendance Policy Statement
 
-Attendance at all class sessions and exams is mandatory for military and civilians assigned to AFIT as full-time students except for extenuating circumstances. Part-time students are expected to attend scheduled classes, and absences should be explained to the instructor. The student should provide advance notice, if possible. Scheduled classes and exams are defined by the instructor and they are documented in the course schedule. (References: Student Handbook, Graduate School Catalog)
+Attendance at all class sessions and exams is mandatory for military and civilians assigned to AFIT as full-time students except for extenuating circumstances. Part-time students are expected to attend scheduled classes, and absences should be explained to the instructor. The student should provide advance notice, if possible. Scheduled classes and exams are defined by the instructor and they are documented in the course schedule. (References: AFIT Student Handbook, AFIT Graduate School Catalog)
 
 ### Academic Grievance Policy Statement
 
-AFIT and the Graduate School of Engineering and Management affirm the right of each student to resolve grievances with the Institution. Students are guaranteed the right of fair hearing and appeal in all matters of judgment of academic performance. Procedures are detailed in ENOI 36 – 138, Student Academic Performance Appeals.
-
-Additional Notes
-----------------
-
-### My Teaching Philosophy
-
-As **AFIT graduates**, you should be expected to know how to approach and solve real-world problems AND present your results in a meaningful way so that decision makers can make defensible decisions.
-
-As **AFIT instructors**, we do a disservice to our students by not teaching new and improved ways to produce and share your results. Further, we do a disservice by teaching you to solve problems using tools that you won't have access to after leaving AFIT. Therefore, I re-built this course using the R/RStudio tool-chain to help you produce better results...faster.
-
-### Challenge your instructor
-
-Challenging your instructor can often be a good thing. If you can't trip me up in this class from time to time, you're not trying. Discussion leads to a more interesting class, so questions are always good.
-
-### "How not to do Reliability"
-
-Industry provides many examples of how not to do reliability. Occasionally, we'll discuss these examples to highlight the result of applying poor reliability principles.
+AFIT and the Graduate School of Engineering and Management affirm the right of each student to resolve grievances with the Institution. Students are guaranteed the right of fair hearing and appeal in all matters of judgment of academic performance. Procedures are detailed in ENOI 36-138 - *Student Academic Performance Appeals*.
