@@ -41,12 +41,7 @@ None
 Instructor and Contact Information
 ----------------------------------
 
-Maj. Jason Freels
-Email: [**jason.freels@afit.edu**](mailto:jason.freels@afit.edu)
-Email: [**auburngrads@live.com**](mailto:auburngrads@live.com)
-Phone: (937) 255-3636 ext. 4676
-Cell: (937) 430-6619
-Office: Bldg. 640, Rm. 205B
+Maj. Jason Freels<br/> Email: [**jason.freels@afit.edu**](mailto:jason.freels@afit.edu)<br/> Email: [**auburngrads@live.com**](mailto:auburngrads@live.com)<br/> Phone: (937) 255-3636 ext. 4676<br/> Cell: (937) 430-6619<br/> Office: Bldg. 640, Rm. 205B<br/>
 Office hours: By appointment
 
 Resources
@@ -56,21 +51,15 @@ Resources
 
 The required text for this course is
 
--   Charles E. Ebeling
-    [**An Introduction to Reliability and Maintainability Engineering**](http://www.waveland.com/browse.php?t=392&pgtitle=An+Introduction+to+Reliability+and+Maintainability+Engineering%3A+Second+Edition+by+Charles+E.+Ebeling)
-    2nd ed., Waveland Press, Long Grove, IL 2010.
+-   Charles E. Ebeling<br/> [**An Introduction to Reliability and Maintainability Engineering**](http://www.waveland.com/browse.php?t=392&pgtitle=An+Introduction+to+Reliability+and+Maintainability+Engineering%3A+Second+Edition+by+Charles+E.+Ebeling)<br/> 2nd ed., Waveland Press, Long Grove, IL 2010.
 
 ### Optional resources
 
 The following list includes references to more reliability-related resources that can be accessed online. While not required, these references contain content that complements the material presented during this course.
 
--   William Meeker and Luis Escobar
-    [***Statistical Methods for Reliability Data***](https://www.amazon.com/Statistical-Methods-Reliability-William-Meeker/dp/0471143286)
-    1st Ed., Wiley-Interscience, 1998
+-   William Meeker and Luis Escobar<br/> [***Statistical Methods for Reliability Data***](https://www.amazon.com/Statistical-Methods-Reliability-William-Meeker/dp/0471143286)<br/> 1st Ed., Wiley-Interscience, 1998
 
--   Marvin. Rausand and Arlnot Hoyland
-    [**System Reliability Theory: Models, Statistical Methods & Applications**](http://bcs.wiley.com/he-bcs/Books?action=index&itemId=047147133X&bcsId=9457)
-    2nd ed., Wiley-Interscience, Hoboken, NJ 2004
+-   Marvin. Rausand and Arlnot Hoyland<br/> [**System Reliability Theory: Models, Statistical Methods & Applications**](http://bcs.wiley.com/he-bcs/Books?action=index&itemId=047147133X&bcsId=9457)<br/> 2nd ed., Wiley-Interscience, Hoboken, NJ 2004
 
 -   DOD Guide for Achieving Reliability, Availability, and Maintainability, 3 Aug 2005
 
