@@ -139,31 +139,31 @@ Course Schedule (Tentative)
 <td align="left">6</td>
 <td align="left">8, 9</td>
 <td align="left">Design for Reliability<br/>Maintainability</td>
-<td align="left"></td>
+<td align="left">HW 3 Due<br/>HW 4 Assigned</td>
 </tr>
 <tr class="odd">
 <td align="left">7</td>
 <td align="left">9, 10</td>
 <td align="left">Maintainability<br/>Design for Maintainability</td>
-<td align="left">HW 3 Due<br/>HW 4 Assigned</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
 <td align="left">8</td>
-<td align="left">11, 12</td>
+<td align="left">12, 13</td>
 <td align="left">Data Collection<br/>Reliability Testing</td>
-<td align="left"></td>
+<td align="left">HW 4 Due<br/>HW 5 Assigned</td>
 </tr>
 <tr class="odd">
 <td align="left">9</td>
-<td align="left">12, 13</td>
-<td align="left">Reliability Testing<br/>Reliability Growth Testing<br/>Review For Final</td>
-<td align="left">HW 4 Due</td>
+<td align="left">13, 14</td>
+<td align="left">Reliability Testing<br/>Reliability Growth Testing</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
 <td align="left">10</td>
 <td align="left">N/A</td>
-<td align="left">Student Presentations<br/>Final Exam</td>
-<td align="left"></td>
+<td align="left">Student Presentations</td>
+<td align="left">HW 5 Due</td>
 </tr>
 </tbody>
 </table>
@@ -178,16 +178,13 @@ Performance Evaluation
 
 Your grade in this course will be calculated according to the following requirements and their respective weights.
 
--   **HOMEWORK (33%):**
-    Homework is due at the beginning of class on the day listed in the class schedule. Each student must turn in their own solutions for each problem assigned - Unless other arrangements are approved by the instructor. Solutions will be posted that evening.
+-   **HOMEWORK (60%):**
+    Homework is due by 'close of business' (1700) on the day listed in the class schedule. Each student must turn in their own solutions for each problem assigned - Unless other arrangements are approved by the instructor. Solutions will be provided at the beginning of the next class.
 
--   **PROJECT (33%):**
-    Students, in teams of two, will prepare a class presentation on a topic relevant to reliability, maintainability, and availability. Presentations should be about 20 minutes long. Students may choose a relevant DoD topic or their own topic, approved by the professor. Topics and teams are "first-come, first-served" Topic presentations will include the topic's background and why it is important or relevant, a brief literature review of the research on this topic, a description and assessment of any quantitative reliability tools used, and a managerial assessment of why USAF leaders should know and care about it.
+-   **PROJECT (40%):**
+    Students, in teams of two, will prepare a class presentation on a topic relevant to reliability, maintainability, and availability. Presentations should be about 30 minutes long. Students may choose a relevant DoD topic or their own topic, approved by the professor. Topics and teams are "first-come, first-served" Topic presentations will include the topic's background and why it is important or relevant, a brief literature review of the research on this topic, a description and assessment of any quantitative reliability tools used, and a managerial assessment of why USAF leaders should know and care about it.
 
 > Project examples: Evaluation of the C-5 re-engining and reliability improvement program, a B-52 life extension program, F-35 software reliability, GM ignition switch failures,r automotive air bag failures, the Samsung Galaxy Note 7 failures, or electric car battery failures.
-
--   **FINAL EXAM (33%):**
-    The final exam will test comprehension of the course material in the book and class presentations, and ability to analytically solve problems scoped similar to the homework. The exam is closed book, closed notes. Students may prepare a formula sheet, on 8 Â½" x 11" paper, and use both the front and back. Students will have two hours to finish the exam.
 
 A student's final letter grade will be parsed out according to the table below. This grading profile follows the the standard grading profile established by the institution.
 
