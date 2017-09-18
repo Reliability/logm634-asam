@@ -14,7 +14,7 @@ MTWHF 0900-1200 USAF Expeditionary Center, Ft Dix, NJ (3.0 Credit Hours)
 -   [Resources](#resources)
 -   [Course Schedule (Tentative)](#course-schedule-tentative)
 -   [Course Format](#course-format)
--   [Performance Evaluation](#performance-evaluation)
+-   [Assessment](#assessment)
 -   [Important Policy Statements](#important-policy-statements)
 
 Course Description
@@ -162,8 +162,8 @@ Course Format
 
 Class material is primarily presented in lecture format.
 
-Performance Evaluation
-----------------------
+Assessment
+----------
 
 Your grade in this course will be calculated according to the following requirements and their respective weights.
 
